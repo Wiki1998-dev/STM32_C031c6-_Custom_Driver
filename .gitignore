@@ -1,0 +1,38 @@
+# STM32CubeIDE Build Files
+Debug/
+Release/
+Build/
+*.o
+*.d
+*.su
+*.elf
+*.bin
+*.hex
+*.map
+*.list
+
+# IDE Settings (optional - some keep these)
+.settings/
+.metadata/
+.project
+.cproject
+*.launch
+
+# Keep .ioc file if using CubeMX
+# Comment out if you want to track it:
+# *.ioc
+
+# OS Files
+.DS_Store
+Thumbs.db
+*~
+
+# Backup Files
+*.bak
+*.old
+*.swp
+
+# Documentation Build
+*.pdf
+*.aux
+*.log
