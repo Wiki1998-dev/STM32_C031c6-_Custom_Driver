@@ -1,4 +1,8 @@
 **Note: This project is re Implementation for opensource access previously this project had been done with company and code were not able to be shared !!!!!******
+
+---
+**Sprint1**
+
 **Goals:**
 - Build a complete environment monitoring station from scratch using:
 - Custom register-level drivers (GPIO, UART, ADC, I2C, SPI)
@@ -7,7 +11,7 @@
 
 ---
 
-**Sprint1-Feature1_addition**
+**-Feature1_addition**
 
 - **System Clock:** HSI 48MHz configuration via RCC registers
 - **SysTick Timer:** 1ms timebase with overflow-safe delays
