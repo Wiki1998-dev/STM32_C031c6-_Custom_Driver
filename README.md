@@ -1,10 +1,11 @@
 
 
 **Goals:**
-- Build a complete environment monitoring station from scratch using:
-- Custom register-level drivers (GPIO, UART, ADC, I2C, SPI)
+- Build a complete drivers from scratch using:
+- Custom register-level drivers (GPIO, UART, ADC, SPI, I2C, SPI)
 - No ST HAL libraries (pure CMSIS + bare-metal)
 - Modular API design for reusability
+- 
 
 ---
 
