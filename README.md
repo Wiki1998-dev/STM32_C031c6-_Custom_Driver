@@ -13,5 +13,6 @@
 - **System Clock:** HSI 48MHz configuration via RCC registers
 - **SysTick Timer:** 1ms timebase with overflow-safe delays
 - **GPIO Driver:** Pin mode, alternate function, read/write
+- **SPI Driver:** Possible APIs of read write, Interrupts and status,flags handling
 -  **UART Driver:** 115200 baud with printf redirection
 - **ADC Driver:** Internal temperature sensor with factory calibration
